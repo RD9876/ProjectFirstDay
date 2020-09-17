@@ -7,5 +7,8 @@ public class Sample {
 		System.out.println(a+b);
 		String s="Hello";
 		System.out.println(s);
-	}
+		int c=30;
+		System.out.println(c);
+		System.out.println("Hello");
+		}
 }
